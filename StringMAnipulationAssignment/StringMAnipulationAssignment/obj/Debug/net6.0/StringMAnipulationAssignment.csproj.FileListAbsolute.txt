@@ -1,0 +1,14 @@
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\bin\Debug\net6.0\StringMAnipulationAssignment.exe
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\bin\Debug\net6.0\StringMAnipulationAssignment.deps.json
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\bin\Debug\net6.0\StringMAnipulationAssignment.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\bin\Debug\net6.0\StringMAnipulationAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\bin\Debug\net6.0\StringMAnipulationAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\obj\Debug\net6.0\StringMAnipulationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\obj\Debug\net6.0\StringMAnipulationAssignment.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\obj\Debug\net6.0\StringMAnipulationAssignment.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\obj\Debug\net6.0\StringMAnipulationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\obj\Debug\net6.0\StringMAnipulationAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\obj\Debug\net6.0\refint\StringMAnipulationAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\obj\Debug\net6.0\StringMAnipulationAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\obj\Debug\net6.0\StringMAnipulationAssignment.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\StringMAnipulationAssignment\StringMAnipulationAssignment\obj\Debug\net6.0\ref\StringMAnipulationAssignment.dll

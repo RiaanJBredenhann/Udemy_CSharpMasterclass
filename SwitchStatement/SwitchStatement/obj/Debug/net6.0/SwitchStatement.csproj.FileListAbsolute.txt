@@ -1,0 +1,14 @@
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\bin\Debug\net6.0\SwitchStatement.exe
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\bin\Debug\net6.0\SwitchStatement.deps.json
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\bin\Debug\net6.0\SwitchStatement.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\bin\Debug\net6.0\SwitchStatement.dll
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\bin\Debug\net6.0\SwitchStatement.pdb
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.dll
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\obj\Debug\net6.0\refint\SwitchStatement.dll
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.pdb
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\SwitchStatement\SwitchStatement\obj\Debug\net6.0\ref\SwitchStatement.dll

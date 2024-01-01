@@ -1,0 +1,14 @@
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\bin\Debug\net6.0\StringManipulationAssignment2.exe
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\bin\Debug\net6.0\StringManipulationAssignment2.deps.json
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\bin\Debug\net6.0\StringManipulationAssignment2.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\bin\Debug\net6.0\StringManipulationAssignment2.dll
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\bin\Debug\net6.0\StringManipulationAssignment2.pdb
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\obj\Debug\net6.0\StringManipulationAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\obj\Debug\net6.0\StringManipulationAssignment2.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\obj\Debug\net6.0\StringManipulationAssignment2.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\obj\Debug\net6.0\StringManipulationAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\obj\Debug\net6.0\StringManipulationAssignment2.dll
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\obj\Debug\net6.0\refint\StringManipulationAssignment2.dll
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\obj\Debug\net6.0\StringManipulationAssignment2.pdb
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\obj\Debug\net6.0\StringManipulationAssignment2.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\StringManipulationAssignment2\StringManipulationAssignment2\obj\Debug\net6.0\ref\StringManipulationAssignment2.dll

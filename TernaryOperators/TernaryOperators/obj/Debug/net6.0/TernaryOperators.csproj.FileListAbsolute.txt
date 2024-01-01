@@ -1,0 +1,14 @@
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\bin\Debug\net6.0\TernaryOperators.exe
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\bin\Debug\net6.0\TernaryOperators.deps.json
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\bin\Debug\net6.0\TernaryOperators.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\bin\Debug\net6.0\TernaryOperators.dll
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\bin\Debug\net6.0\TernaryOperators.pdb
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\obj\Debug\net6.0\TernaryOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\obj\Debug\net6.0\TernaryOperators.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\obj\Debug\net6.0\TernaryOperators.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\obj\Debug\net6.0\TernaryOperators.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\obj\Debug\net6.0\TernaryOperators.dll
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\obj\Debug\net6.0\refint\TernaryOperators.dll
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\obj\Debug\net6.0\TernaryOperators.pdb
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\obj\Debug\net6.0\TernaryOperators.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperators\TernaryOperators\obj\Debug\net6.0\ref\TernaryOperators.dll

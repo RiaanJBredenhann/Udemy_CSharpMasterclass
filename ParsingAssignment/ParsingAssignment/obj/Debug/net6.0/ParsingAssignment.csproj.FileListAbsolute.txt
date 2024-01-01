@@ -1,0 +1,14 @@
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\bin\Debug\net6.0\ParsingAssignment.exe
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\bin\Debug\net6.0\ParsingAssignment.deps.json
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\bin\Debug\net6.0\ParsingAssignment.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\bin\Debug\net6.0\ParsingAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\bin\Debug\net6.0\ParsingAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\obj\Debug\net6.0\ParsingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\obj\Debug\net6.0\ParsingAssignment.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\obj\Debug\net6.0\ParsingAssignment.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\obj\Debug\net6.0\ParsingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\obj\Debug\net6.0\ParsingAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\obj\Debug\net6.0\refint\ParsingAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\obj\Debug\net6.0\ParsingAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\obj\Debug\net6.0\ParsingAssignment.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\ParsingAssignment\ParsingAssignment\obj\Debug\net6.0\ref\ParsingAssignment.dll

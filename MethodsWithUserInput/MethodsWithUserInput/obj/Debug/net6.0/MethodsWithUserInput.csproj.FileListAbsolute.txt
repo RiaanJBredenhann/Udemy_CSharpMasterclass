@@ -1,0 +1,14 @@
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\bin\Debug\net6.0\MethodsWithUserInput.exe
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\bin\Debug\net6.0\MethodsWithUserInput.deps.json
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\bin\Debug\net6.0\MethodsWithUserInput.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\bin\Debug\net6.0\MethodsWithUserInput.dll
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\bin\Debug\net6.0\MethodsWithUserInput.pdb
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\obj\Debug\net6.0\MethodsWithUserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\obj\Debug\net6.0\MethodsWithUserInput.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\obj\Debug\net6.0\MethodsWithUserInput.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\obj\Debug\net6.0\MethodsWithUserInput.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\obj\Debug\net6.0\MethodsWithUserInput.dll
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\obj\Debug\net6.0\refint\MethodsWithUserInput.dll
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\obj\Debug\net6.0\MethodsWithUserInput.pdb
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\obj\Debug\net6.0\MethodsWithUserInput.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\MethodsWithUserInput\MethodsWithUserInput\obj\Debug\net6.0\ref\MethodsWithUserInput.dll

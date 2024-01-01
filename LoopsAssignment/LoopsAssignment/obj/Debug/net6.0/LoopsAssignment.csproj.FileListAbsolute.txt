@@ -1,0 +1,14 @@
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\bin\Debug\net6.0\LoopsAssignment.exe
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\bin\Debug\net6.0\LoopsAssignment.deps.json
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\bin\Debug\net6.0\LoopsAssignment.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\bin\Debug\net6.0\LoopsAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\bin\Debug\net6.0\LoopsAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\obj\Debug\net6.0\LoopsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\obj\Debug\net6.0\LoopsAssignment.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\obj\Debug\net6.0\LoopsAssignment.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\obj\Debug\net6.0\LoopsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\obj\Debug\net6.0\LoopsAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\obj\Debug\net6.0\refint\LoopsAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\obj\Debug\net6.0\LoopsAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\obj\Debug\net6.0\LoopsAssignment.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\LoopsAssignment\LoopsAssignment\obj\Debug\net6.0\ref\LoopsAssignment.dll

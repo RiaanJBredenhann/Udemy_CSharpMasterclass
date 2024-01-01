@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernaryOperatorsAssignment", "TernaryOperatorsAssignment\TernaryOperatorsAssignment.csproj", "{792AB6B3-CF00-4870-9D30-C5F18313FE66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{792AB6B3-CF00-4870-9D30-C5F18313FE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792AB6B3-CF00-4870-9D30-C5F18313FE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792AB6B3-CF00-4870-9D30-C5F18313FE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792AB6B3-CF00-4870-9D30-C5F18313FE66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D461232-DAF1-4AB8-A79C-9E714E8E0B4C}
+	EndGlobalSection
+EndGlobal

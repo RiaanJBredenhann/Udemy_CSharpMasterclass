@@ -1,0 +1,14 @@
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\bin\Debug\net6.0\DataTypesAndVariablesAssignment.exe
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\bin\Debug\net6.0\DataTypesAndVariablesAssignment.deps.json
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\bin\Debug\net6.0\DataTypesAndVariablesAssignment.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\bin\Debug\net6.0\DataTypesAndVariablesAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\bin\Debug\net6.0\DataTypesAndVariablesAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\obj\Debug\net6.0\DataTypesAndVariablesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\obj\Debug\net6.0\DataTypesAndVariablesAssignment.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\obj\Debug\net6.0\DataTypesAndVariablesAssignment.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\obj\Debug\net6.0\DataTypesAndVariablesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\obj\Debug\net6.0\DataTypesAndVariablesAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\obj\Debug\net6.0\refint\DataTypesAndVariablesAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\obj\Debug\net6.0\DataTypesAndVariablesAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\obj\Debug\net6.0\DataTypesAndVariablesAssignment.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\DataTypesAndVariablesAssignment\DataTypesAndVariablesAssignment\obj\Debug\net6.0\ref\DataTypesAndVariablesAssignment.dll

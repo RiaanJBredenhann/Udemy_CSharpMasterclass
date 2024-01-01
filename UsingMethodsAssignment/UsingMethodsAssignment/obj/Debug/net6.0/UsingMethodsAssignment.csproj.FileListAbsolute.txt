@@ -1,0 +1,14 @@
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\bin\Debug\net6.0\UsingMethodsAssignment.exe
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\bin\Debug\net6.0\UsingMethodsAssignment.deps.json
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\bin\Debug\net6.0\UsingMethodsAssignment.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\bin\Debug\net6.0\UsingMethodsAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\bin\Debug\net6.0\UsingMethodsAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\obj\Debug\net6.0\UsingMethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\obj\Debug\net6.0\UsingMethodsAssignment.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\obj\Debug\net6.0\UsingMethodsAssignment.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\obj\Debug\net6.0\UsingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\obj\Debug\net6.0\UsingMethodsAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\obj\Debug\net6.0\refint\UsingMethodsAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\obj\Debug\net6.0\UsingMethodsAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\obj\Debug\net6.0\UsingMethodsAssignment.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\UsingMethodsAssignment\UsingMethodsAssignment\obj\Debug\net6.0\ref\UsingMethodsAssignment.dll

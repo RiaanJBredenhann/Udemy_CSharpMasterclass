@@ -1,0 +1,14 @@
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\bin\Debug\net6.0\LogInSystem.exe
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\bin\Debug\net6.0\LogInSystem.deps.json
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\bin\Debug\net6.0\LogInSystem.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\bin\Debug\net6.0\LogInSystem.dll
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\bin\Debug\net6.0\LogInSystem.pdb
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\obj\Debug\net6.0\LogInSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\obj\Debug\net6.0\LogInSystem.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\obj\Debug\net6.0\LogInSystem.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\obj\Debug\net6.0\LogInSystem.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\obj\Debug\net6.0\LogInSystem.dll
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\obj\Debug\net6.0\refint\LogInSystem.dll
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\obj\Debug\net6.0\LogInSystem.pdb
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\obj\Debug\net6.0\LogInSystem.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\LogInSystem\LogInSystem\obj\Debug\net6.0\ref\LogInSystem.dll

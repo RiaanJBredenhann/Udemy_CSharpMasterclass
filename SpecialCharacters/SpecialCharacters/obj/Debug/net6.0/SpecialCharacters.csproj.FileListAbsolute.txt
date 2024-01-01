@@ -1,0 +1,14 @@
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\bin\Debug\net6.0\SpecialCharacters.exe
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\bin\Debug\net6.0\SpecialCharacters.deps.json
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\bin\Debug\net6.0\SpecialCharacters.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\bin\Debug\net6.0\SpecialCharacters.dll
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\bin\Debug\net6.0\SpecialCharacters.pdb
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.dll
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\obj\Debug\net6.0\refint\SpecialCharacters.dll
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.pdb
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\obj\Debug\net6.0\SpecialCharacters.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\SpecialCharacters\SpecialCharacters\obj\Debug\net6.0\ref\SpecialCharacters.dll

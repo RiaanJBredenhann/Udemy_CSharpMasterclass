@@ -1,0 +1,14 @@
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\bin\Debug\net6.0\UsingDatatypes.exe
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\bin\Debug\net6.0\UsingDatatypes.deps.json
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\bin\Debug\net6.0\UsingDatatypes.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\bin\Debug\net6.0\UsingDatatypes.dll
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\bin\Debug\net6.0\UsingDatatypes.pdb
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\obj\Debug\net6.0\UsingDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\obj\Debug\net6.0\UsingDatatypes.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\obj\Debug\net6.0\UsingDatatypes.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\obj\Debug\net6.0\UsingDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\obj\Debug\net6.0\UsingDatatypes.dll
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\obj\Debug\net6.0\refint\UsingDatatypes.dll
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\obj\Debug\net6.0\UsingDatatypes.pdb
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\obj\Debug\net6.0\UsingDatatypes.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\UsingDatatypes\UsingDatatypes\obj\Debug\net6.0\ref\UsingDatatypes.dll

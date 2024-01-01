@@ -1,0 +1,14 @@
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\bin\Debug\net6.0\TernaryOperatorsAssignment.exe
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\bin\Debug\net6.0\TernaryOperatorsAssignment.deps.json
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\bin\Debug\net6.0\TernaryOperatorsAssignment.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\bin\Debug\net6.0\TernaryOperatorsAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\bin\Debug\net6.0\TernaryOperatorsAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\obj\Debug\net6.0\TernaryOperatorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\obj\Debug\net6.0\TernaryOperatorsAssignment.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\obj\Debug\net6.0\TernaryOperatorsAssignment.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\obj\Debug\net6.0\TernaryOperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\obj\Debug\net6.0\TernaryOperatorsAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\obj\Debug\net6.0\refint\TernaryOperatorsAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\obj\Debug\net6.0\TernaryOperatorsAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\obj\Debug\net6.0\TernaryOperatorsAssignment.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\TernaryOperatorsAssignment\TernaryOperatorsAssignment\obj\Debug\net6.0\ref\TernaryOperatorsAssignment.dll
