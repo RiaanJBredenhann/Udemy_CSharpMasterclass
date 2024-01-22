@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fMLiF3DsgdgMHihqSVbIDTqjq8kw6cyhWPpAmkBJ7zBNVp1zWhw3QRIojbcHiiUODZyVLcbVDzKisEKKWnl9dw==",
+  "dgSpecHash": "6JZOvuj8wLTdLgDtCRzNgMMhA2Cyc0/qJ0Jzs2aXWImj50Qgp3JJhSqj/IYjCn1xU1Gxd9uIs2XGTXeNqVfJIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Riaan HP\\Documents\\Udemy\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+  "projectFilePath": "C:\\Users\\Riaan HP\\Documents\\Udemy\\C# Masterclass\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

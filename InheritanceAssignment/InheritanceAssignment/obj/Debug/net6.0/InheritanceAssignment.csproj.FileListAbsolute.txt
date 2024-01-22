@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\bin\Debug\net6.0\InheritanceAssignment.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\bin\Debug\net6.0\InheritanceAssignment.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\bin\Debug\net6.0\InheritanceAssignment.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\bin\Debug\net6.0\InheritanceAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\bin\Debug\net6.0\InheritanceAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\obj\Debug\net6.0\refint\InheritanceAssignment.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritanceAssignment\InheritanceAssignment\obj\Debug\net6.0\ref\InheritanceAssignment.dll

@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\obj\Debug\net6.0\refint\ArrayLists.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ArrayLists\ArrayLists\obj\Debug\net6.0\ref\ArrayLists.dll

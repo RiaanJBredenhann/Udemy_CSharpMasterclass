@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\refint\ParamsKeyword.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ref\ParamsKeyword.dll

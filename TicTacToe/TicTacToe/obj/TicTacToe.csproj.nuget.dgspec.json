@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Riaan HP\\Documents\\Udemy\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {}
+    "C:\\Users\\Riaan HP\\Documents\\Udemy\\C# Masterclass\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Riaan HP\\Documents\\Udemy\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {
+    "C:\\Users\\Riaan HP\\Documents\\Udemy\\C# Masterclass\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Riaan HP\\Documents\\Udemy\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+        "projectUniqueName": "C:\\Users\\Riaan HP\\Documents\\Udemy\\C# Masterclass\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "C:\\Users\\Riaan HP\\Documents\\Udemy\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+        "projectPath": "C:\\Users\\Riaan HP\\Documents\\Udemy\\C# Masterclass\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
         "packagesPath": "C:\\Users\\Riaan HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Riaan HP\\Documents\\Udemy\\TicTacToe\\TicTacToe\\obj\\",
+        "outputPath": "C:\\Users\\Riaan HP\\Documents\\Udemy\\C# Masterclass\\TicTacToe\\TicTacToe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Riaan HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

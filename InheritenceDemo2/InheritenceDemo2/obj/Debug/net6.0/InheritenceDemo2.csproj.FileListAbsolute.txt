@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\bin\Debug\net6.0\InheritenceDemo2.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\bin\Debug\net6.0\InheritenceDemo2.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\bin\Debug\net6.0\InheritenceDemo2.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\bin\Debug\net6.0\InheritenceDemo2.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\bin\Debug\net6.0\InheritenceDemo2.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\obj\Debug\net6.0\InheritenceDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\obj\Debug\net6.0\InheritenceDemo2.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\obj\Debug\net6.0\InheritenceDemo2.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\obj\Debug\net6.0\InheritenceDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\obj\Debug\net6.0\InheritenceDemo2.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\obj\Debug\net6.0\InheritenceDemo2.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\obj\Debug\net6.0\refint\InheritenceDemo2.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\obj\Debug\net6.0\InheritenceDemo2.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\obj\Debug\net6.0\InheritenceDemo2.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\InheritenceDemo2\InheritenceDemo2\obj\Debug\net6.0\ref\InheritenceDemo2.dll

@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\bin\Debug\net6.0\CreatingAnInterface.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\bin\Debug\net6.0\CreatingAnInterface.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\bin\Debug\net6.0\CreatingAnInterface.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\bin\Debug\net6.0\CreatingAnInterface.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\bin\Debug\net6.0\CreatingAnInterface.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\obj\Debug\net6.0\CreatingAnInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\obj\Debug\net6.0\CreatingAnInterface.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\obj\Debug\net6.0\CreatingAnInterface.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\obj\Debug\net6.0\CreatingAnInterface.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\obj\Debug\net6.0\CreatingAnInterface.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\obj\Debug\net6.0\CreatingAnInterface.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\obj\Debug\net6.0\refint\CreatingAnInterface.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\obj\Debug\net6.0\CreatingAnInterface.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\obj\Debug\net6.0\CreatingAnInterface.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingAnInterface\CreatingAnInterface\obj\Debug\net6.0\ref\CreatingAnInterface.dll

@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net6.0\UsingArraysAsParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net6.0\UsingArraysAsParameters.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net6.0\UsingArraysAsParameters.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net6.0\UsingArraysAsParameters.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net6.0\UsingArraysAsParameters.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\bin\Debug\net6.0\UsingArraysAsParameters.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\bin\Debug\net6.0\UsingArraysAsParameters.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\bin\Debug\net6.0\UsingArraysAsParameters.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\bin\Debug\net6.0\UsingArraysAsParameters.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\bin\Debug\net6.0\UsingArraysAsParameters.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net6.0\UsingArraysAsParameters.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net6.0\refint\UsingArraysAsParameters.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net6.0\UsingArraysAsParameters.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net6.0\UsingArraysAsParameters.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\UsingArraysAsParameters\UsingArraysAsParameters\obj\Debug\net6.0\ref\UsingArraysAsParameters.dll

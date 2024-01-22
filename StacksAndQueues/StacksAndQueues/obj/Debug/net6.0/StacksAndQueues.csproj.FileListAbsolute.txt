@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\obj\Debug\net6.0\refint\StacksAndQueues.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\StacksAndQueues\StacksAndQueues\obj\Debug\net6.0\ref\StacksAndQueues.dll
