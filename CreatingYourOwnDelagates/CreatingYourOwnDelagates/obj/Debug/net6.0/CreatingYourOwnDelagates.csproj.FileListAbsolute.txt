@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\bin\Debug\net6.0\CreatingYourOwnDelagates.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\bin\Debug\net6.0\CreatingYourOwnDelagates.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\bin\Debug\net6.0\CreatingYourOwnDelagates.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\bin\Debug\net6.0\CreatingYourOwnDelagates.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\bin\Debug\net6.0\CreatingYourOwnDelagates.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\obj\Debug\net6.0\CreatingYourOwnDelagates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\obj\Debug\net6.0\CreatingYourOwnDelagates.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\obj\Debug\net6.0\CreatingYourOwnDelagates.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\obj\Debug\net6.0\CreatingYourOwnDelagates.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\obj\Debug\net6.0\CreatingYourOwnDelagates.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\obj\Debug\net6.0\CreatingYourOwnDelagates.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\obj\Debug\net6.0\refint\CreatingYourOwnDelagates.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\obj\Debug\net6.0\CreatingYourOwnDelagates.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\obj\Debug\net6.0\CreatingYourOwnDelagates.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\CreatingYourOwnDelagates\CreatingYourOwnDelagates\obj\Debug\net6.0\ref\CreatingYourOwnDelagates.dll

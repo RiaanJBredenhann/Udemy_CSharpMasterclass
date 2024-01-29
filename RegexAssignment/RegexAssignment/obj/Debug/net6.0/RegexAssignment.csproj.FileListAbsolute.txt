@@ -1,0 +1,5 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\RegexAssignment\RegexAssignment\obj\Debug\net6.0\RegexAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\RegexAssignment\RegexAssignment\obj\Debug\net6.0\RegexAssignment.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\RegexAssignment\RegexAssignment\obj\Debug\net6.0\RegexAssignment.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\RegexAssignment\RegexAssignment\obj\Debug\net6.0\RegexAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\RegexAssignment\RegexAssignment\obj\Debug\net6.0\RegexAssignment.sourcelink.json

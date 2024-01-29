@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\bin\Debug\net6.0\Nullables.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\bin\Debug\net6.0\Nullables.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\bin\Debug\net6.0\Nullables.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\bin\Debug\net6.0\Nullables.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\bin\Debug\net6.0\Nullables.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\obj\Debug\net6.0\Nullables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\obj\Debug\net6.0\Nullables.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\obj\Debug\net6.0\Nullables.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\obj\Debug\net6.0\Nullables.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\obj\Debug\net6.0\Nullables.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\obj\Debug\net6.0\Nullables.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\obj\Debug\net6.0\refint\Nullables.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\obj\Debug\net6.0\Nullables.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\obj\Debug\net6.0\Nullables.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Nullables\Nullables\obj\Debug\net6.0\ref\Nullables.dll

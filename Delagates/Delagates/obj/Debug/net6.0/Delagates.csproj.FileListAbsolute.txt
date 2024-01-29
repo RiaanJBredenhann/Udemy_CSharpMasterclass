@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\bin\Debug\net6.0\Delagates.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\bin\Debug\net6.0\Delagates.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\bin\Debug\net6.0\Delagates.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\bin\Debug\net6.0\Delagates.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\bin\Debug\net6.0\Delagates.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\obj\Debug\net6.0\Delagates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\obj\Debug\net6.0\Delagates.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\obj\Debug\net6.0\Delagates.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\obj\Debug\net6.0\Delagates.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\obj\Debug\net6.0\Delagates.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\obj\Debug\net6.0\Delagates.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\obj\Debug\net6.0\refint\Delagates.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\obj\Debug\net6.0\Delagates.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\obj\Debug\net6.0\Delagates.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Delagates\Delagates\obj\Debug\net6.0\ref\Delagates.dll
