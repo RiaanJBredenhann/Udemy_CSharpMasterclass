@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\bin\Debug\net6.0\FileIOc.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\bin\Debug\net6.0\FileIOc.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\bin\Debug\net6.0\FileIOc.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\bin\Debug\net6.0\FileIOc.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\bin\Debug\net6.0\FileIOc.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\obj\Debug\net6.0\FileIOc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\obj\Debug\net6.0\FileIOc.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\obj\Debug\net6.0\FileIOc.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\obj\Debug\net6.0\FileIOc.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\obj\Debug\net6.0\FileIOc.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\obj\Debug\net6.0\FileIOc.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\obj\Debug\net6.0\refint\FileIOc.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\obj\Debug\net6.0\FileIOc.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\obj\Debug\net6.0\FileIOc.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\FileIOc\FileIOc\obj\Debug\net6.0\ref\FileIOc.dll

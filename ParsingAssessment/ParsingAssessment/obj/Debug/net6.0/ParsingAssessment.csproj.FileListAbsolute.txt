@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\obj\Debug\net6.0\ParsingAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\obj\Debug\net6.0\ParsingAssessment.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\obj\Debug\net6.0\ParsingAssessment.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\obj\Debug\net6.0\ParsingAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\obj\Debug\net6.0\ParsingAssessment.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\bin\Debug\net6.0\ParsingAssessment.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\bin\Debug\net6.0\ParsingAssessment.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\bin\Debug\net6.0\ParsingAssessment.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\bin\Debug\net6.0\ParsingAssessment.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\bin\Debug\net6.0\ParsingAssessment.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\obj\Debug\net6.0\ParsingAssessment.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\obj\Debug\net6.0\refint\ParsingAssessment.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\obj\Debug\net6.0\ParsingAssessment.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\obj\Debug\net6.0\ParsingAssessment.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\ParsingAssessment\ParsingAssessment\obj\Debug\net6.0\ref\ParsingAssessment.dll
