@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\bin\Debug\net6.0\Structs.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\bin\Debug\net6.0\Structs.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\bin\Debug\net6.0\Structs.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\bin\Debug\net6.0\Structs.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\bin\Debug\net6.0\Structs.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\obj\Debug\net6.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\obj\Debug\net6.0\Structs.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\obj\Debug\net6.0\Structs.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\obj\Debug\net6.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\obj\Debug\net6.0\Structs.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\obj\Debug\net6.0\Structs.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\obj\Debug\net6.0\refint\Structs.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\obj\Debug\net6.0\Structs.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\obj\Debug\net6.0\Structs.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Structs\Structs\obj\Debug\net6.0\ref\Structs.dll

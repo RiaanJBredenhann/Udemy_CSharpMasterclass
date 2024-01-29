@@ -1,0 +1,5 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Random\Random\obj\Debug\net6.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Random\Random\obj\Debug\net6.0\Random.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Random\Random\obj\Debug\net6.0\Random.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Random\Random\obj\Debug\net6.0\Random.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\Random\Random\obj\Debug\net6.0\Random.sourcelink.json
