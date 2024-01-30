@@ -1,0 +1,15 @@
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\bin\Debug\net6.0\EventsAndMuticastDelegates.exe
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\bin\Debug\net6.0\EventsAndMuticastDelegates.deps.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\bin\Debug\net6.0\EventsAndMuticastDelegates.runtimeconfig.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\bin\Debug\net6.0\EventsAndMuticastDelegates.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\bin\Debug\net6.0\EventsAndMuticastDelegates.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\obj\Debug\net6.0\EventsAndMuticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\obj\Debug\net6.0\EventsAndMuticastDelegates.AssemblyInfoInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\obj\Debug\net6.0\EventsAndMuticastDelegates.AssemblyInfo.cs
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\obj\Debug\net6.0\EventsAndMuticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\obj\Debug\net6.0\EventsAndMuticastDelegates.sourcelink.json
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\obj\Debug\net6.0\EventsAndMuticastDelegates.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\obj\Debug\net6.0\refint\EventsAndMuticastDelegates.dll
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\obj\Debug\net6.0\EventsAndMuticastDelegates.pdb
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\obj\Debug\net6.0\EventsAndMuticastDelegates.genruntimeconfig.cache
+C:\Users\Riaan HP\Documents\Udemy\C# Masterclass\EventsAndMuticastDelegates\EventsAndMuticastDelegates\obj\Debug\net6.0\ref\EventsAndMuticastDelegates.dll
